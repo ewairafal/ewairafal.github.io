@@ -161,7 +161,7 @@ body {
 }
 
 #introtext .head-sarah {
-    font-family: "EdwardianScrAltITCTT", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+    font-family: Arial, "Lucida Grande", sans-serif;
     font-size: 5em;
     line-height: 100%;
 }
@@ -172,13 +172,13 @@ body {
     font-size: 0.7em;
 }
 #introtext .head-brad {
-    font-family: "futura_ltbook", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+    font-family: "Norican", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
     font-size: 2em;
     line-height: 100%;
 }
 #introtext .date {
     margin-top: 10px;
-    font-family: "futura_ltbook", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+    font-family: "Norican", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
     font-size: 1em;
 }
 
@@ -191,7 +191,7 @@ nav {
 }
 
 nav ul {
-    font-family:"futura_ltbook",Arial,sans-serif;
+    font-family: Roboto, Arial,sans-serif;
     font-weight: normal;
     margin: 0;
     padding: 0;
@@ -250,7 +250,7 @@ html {
 }
 
 body {
-    font-family: "futura_ltbook", "HelveticaNeueLTStdRegular","HelveticaNeue", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+    font-family: Roboto, "HelveticaNeue", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
     color: #fff;
     text-align: center;
 
@@ -304,7 +304,7 @@ section {
 
 section h1 {
 
-    font-family: "EdwardianScrAltITCTT", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+    font-family: "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
     font-size: 2.6em;
 
 }
@@ -726,12 +726,12 @@ section h2 {
 }
 
 @font-face {
-    font-family: 'futura_ltbook';
+    font-family: 'Caveat';
     src: url('futuralt-book-webfont.eot');
     src: url('futuralt-book-webfont.eot?#iefix') format('embedded-opentype'),
          url('futuralt-book-webfont.woff') format('woff'),
          url('futuralt-book-webfont.ttf') format('truetype'),
-         url('futuralt-book-webfont.svg#futura_ltbook') format('svg');
+         url('futuralt-book-webfont.svg#Caveat') format('svg');
     font-weight: normal;
     font-style: normal;
 }
