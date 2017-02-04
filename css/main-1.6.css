@@ -314,6 +314,26 @@ section h2 {
     padding: 0 0px;
 }
 
+#schedule ul{
+    list-style-type: none;
+}
+#schedule ul>li{
+    font-size: 1.2em;
+    line-height: 145%;
+    list-style-type: none;
+}
+#schedule ul>li>ul>li>span{
+    padding-right: 5px;
+}
+
+
+#schedule li ul{
+    font-size: 1.0em;
+    list-style-type: none;
+    padding-left: 0;
+    margin-left: 0;
+}
+
 .column {
     float: none;
     width: 100%;
